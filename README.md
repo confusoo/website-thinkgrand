@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To use this code you must have NODE.js modelues installed.
+
 ## Available Scripts
 
 In the project directory, you can run:
